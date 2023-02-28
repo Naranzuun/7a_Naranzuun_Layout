@@ -1,0 +1,20 @@
+.container {
+    width: 200vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    width: 60vh;
+    height: 30vh;
+    flex-direction: column;
+    display: flex;
+    background-color: darkblue;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/fd/91/13/fd91131ea693096d6be5e8aa99d18f9e.jpg);
+}
+.log {
+    background-color: #5865F2;
+}
